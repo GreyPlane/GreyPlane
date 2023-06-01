@@ -2,3 +2,4 @@ Self-taught programmer who has a bachelor's degree in Communications, working ac
 
 
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
